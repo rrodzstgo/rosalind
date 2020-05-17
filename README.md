@@ -1,0 +1,2 @@
+# rosalind
+Rosalind.info exercises
