@@ -1,0 +1,3 @@
+exercise_string = "eDwkdYP7jbAKLdct57QbdQulXlLlGeocheloneMgcto3jmugodjaricus18a069jCo3hKCUxi85ALx1drKmisKa72iKF6mBOgwiIkUWjUxhyzNkMaCoLmH7ViyitCoe9c5hUEPx35Gr8ktjiQ6y5y89uHACluBNjGLeqTVZNM6Vz8NlarruitYT0dk9.."
+exercise_string_output = exercise_string[28:38] +' '+ exercise_string[45:57]
+print(exercise_string_output)
